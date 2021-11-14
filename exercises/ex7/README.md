@@ -28,7 +28,7 @@ After completing these steps you will have created...
 13.	On the overview page, you will see the entry Publish **Result To Financial Plan for SAP S/4HANA**.
 14.	Click on **Publish Result To Financial Plan for SAP S/4HANA** to open the application.
 <br>![](/exercises/ex7/images/07_0009.png)
-15.	In this application, you can derive the corresponding G/L accounts for the planned HR costs and transfer the data to the financial planning model.![image](https://user-images.githubusercontent.com/69801788/141703732-c460a31b-8e03-4a32-ab1b-418c4521e61e.png)
+15.	In this application, you can derive the corresponding G/L accounts for the planned HR costs and transfer the data to the financial planning model.
 <br>![](/exercises/ex7/images/07_0010.png)
 16.	Add a filter by clicking on the **filter** icon at the top left corner of the page.
 17.	Select **Company Code** from the list of available dimensions.
