@@ -1,10 +1,10 @@
 # Exercise 6 - Reporting
 
-In this exercise, we will create...
+In this exercise, you will get to know the standard reports which are delivered as part of the content package. These dashboards present central KPI's for different multi-dimensional breakdowns. You can use those reports as templates for creating your own dashboards in SAP Analytics Cloud.
 
 ## Description
 
-After completing these steps you will have created...
+Follow the step-by-step instructions to complete the exercise.
 
 
 1. On the overview page, click on **Progress Overview** to open the first page of the reporting story.
@@ -21,6 +21,6 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You have an overview of the existing pre-defined dashboards for SAP HXM Workforce Planning.
 
 Continue to - [Exercise 7 - Integration to Financial Planning](../ex7/README.md)
