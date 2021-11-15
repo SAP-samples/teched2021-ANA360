@@ -1,10 +1,10 @@
 # Exercise 2 - Configure Planning Parameters
 
-In this exercise, we will create...
+In this exercise, you will learn how to set central planning parameters like midpoint salaries, allowances and other cost drivers for different planning levels.
 
 ## Description
 
-After completing these steps you will have created...
+Follow the step-by-step guide to complete the exercise.
 
 1. Open the application **WFP – Overview Page**.
 
@@ -64,6 +64,6 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You've now learned how you can define central planning parameters.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Aggregated External HC Plan ](../ex3/README.md)
