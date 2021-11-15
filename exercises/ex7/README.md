@@ -1,9 +1,9 @@
 # Exercise 7 - Integration to Financial Planning
-In this exercise, we will create...
+In this exercise, you will learn how you can integrate the business content for SAP HXM Workforce Planning with another content package, Integrated Financial Planning for SAP S/4HANA. This business content is also delivered with the business content network and covers all major financial planning processes. 
 
 ## Description
 
-After completing these steps you will have created...
+Follow the step-by-step instructions to complete the exercise.
 
 1. Navigate to **Files** in the main menu.
 2. Type in HXM in the search field.
@@ -56,6 +56,6 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You've now learned how you can integrate workforce planning with financial planning.
 
 Continue to - [Exercise 8 - Add additional cost types](../ex8/README.md)
