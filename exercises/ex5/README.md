@@ -1,10 +1,10 @@
 # Exercise 5 - Detailed Internal HC Plan
 
-In this exercise, we will create...
+In this exercise, you will get to know the detailed workforce planning application. This can be used by cost center managers to plan actions for existing employees like internal transfers, promotions, employment level adjustments and more. In addition, you can use this application to plan new positions.
 
 ## Description
 
-After completing these steps you will have created...
+Follow the step-by-step instructions to complete the exercise.
 
 1. On the overview page, click on **Detailed Internal FTE Plan** to open the planning application.
 <br>![](/exercises/ex5/images/05_0001.png)
@@ -49,6 +49,6 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You've now seen how you can plan your workforce on a very detailed level.
 
 Continue to - [Exercise 6 - Reporting](../ex6/README.md)
