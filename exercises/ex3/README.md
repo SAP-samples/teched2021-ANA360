@@ -1,10 +1,10 @@
 # Exercise 3 - Aggregated External HC Plan
 
-In this exercise, we will create...
+In this exercise, you will learn how you can plan external workers in your organisation. From the planned headcount you can derive costs based on the central planning parameters.
 
 ## Description
 
-After completing these steps you will have created...
+Follow this step-by-step guid to complete the exercise.
 
 1. On the overview page, click on **Aggregated External HC Plan** to open the planning application.
 <br>![](/exercises/ex3/images/03_0001.png)
@@ -59,7 +59,7 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You've now learned what you can do with the planning application for aggregated external headcount.
 
 Continue to - [Exercise 4 - Aggregated Internal HC Plan](../ex4/README.md)
 
