@@ -1,10 +1,10 @@
 # Exercise 1 - Import from the Analytics Content Network
 
-In this exercise, we will create...
+In this exercise, you will learn how to import the business content SAP Human Experience Management (HXM) Workforce Planning from the content network. You will also get to know the objects which are part of the content package.
 
 ## Description
 
-After completing these steps you will have created...
+Follow the step-by-step instructions to complete the exercise.
 
 1. In the main menu, navigate to **Content Network**.
 <br>![](/exercises/ex1/images/01_0001.png)
@@ -57,7 +57,7 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You've now seen how to obtain the business content SAP HXM Workforce Planning from the business content network.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Configure Planning Parameters](../ex2/README.md)
 
