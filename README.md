@@ -1,37 +1,39 @@
-# Session ID - Session Title
+# ANA360 - Unbox and Implement Workforce Planning
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called ANA360 - Unbox and Implement Workforce Planning.
 
 ## Overview
 
-This session introduces attendees to...
+In this session, you will use the business content SAP HXM Workforce Planning for SAP Analytics Cloud from the Analytics Content Network. Explore how you can use this content package as a foundation for different operational workforce planning processes. In addition, you will also learn how you can adjust and customize the business content to match your individual requirements.
+
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Attendees of the session will need access to Google Chrome and an Internet connection.
+
+## How to get started?
+In case you attend the SAP TechED Live session you will receive the server and user details in the session.
+
+In case you using this material outside of the Live session, you can request a trial and complete the exercises using the trial. To request a trial for SAP Analytics Cloud go to this [site](https://www.sap.com/products/cloud-analytics/trial.html).
+
+
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+You can directly get started with the exercises following the links below. Alternatively, you can also download the exercise material [SAP TechEd 2021 ANA360](materials/ANA360.pdf)
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 1 - Import from the Analytics Content Network](exercises/ex1/)
+- [Exercise 2 - Configure Planning Parameters](exercises/ex2/)
+- [Exercise 3 - Aggregated External HC Plan](exercises/ex3/)
+- [Exercise 4 - Aggregated Internal HC Plan](exercises/ex4/)
+- [Exercise 5 - Detailed Internal HC Plan](exercises/ex5/)
+- [Exercise 6 - Reporting](exercises/ex6/)
+- [Exercise 7 - Integration to Financial Planning](exercises/ex7/)
+- [Exercise 8 - Add additional cost type](exercises/ex8/)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
