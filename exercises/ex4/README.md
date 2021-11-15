@@ -1,10 +1,10 @@
 # Exercise 4 - Aggregated Internal HC Plan
 
-In this exercise, we will create...
+In this exercise, you will learn how you can plan your internal workforce on an aggregated level. The result of this planning process can be used as a top-down guidance for different organizational units in the enterprise.
 
 ## Description
 
-After completing these steps you will have created...
+Follow the step-by-step instructions to complete the exercise.
 
 1. On the overview page, click on **Aggregated Internal HC Plan** to open the planning application.
 <br>![](/exercises/ex4/images/04_0001.png)
@@ -47,6 +47,6 @@ After completing these steps you will have created...
 
 ## Summary
 
-You've now ...
+You've now learned how you can plan headcount and associated costs on an aggregated level.
 
 Continue to - [Exercise 5 - Detailed Internal HC Plan](../ex5/README.md)
