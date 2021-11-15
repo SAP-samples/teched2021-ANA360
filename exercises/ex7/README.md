@@ -47,11 +47,11 @@ After completing these steps you will have created...
 24.	In the Cost Overview table, you will see the planned cost types together with the corresponding G/L accounts.
 <br>![](/exercises/ex7/images/07_0017.png)
 25.	Click on the button **PUBLISH TO P&L** to transfer the data to the financial planning model.
-<br>![](/exercises/ex7/images/07_0019.png)
+<br>![](/exercises/ex7/images/07_0018.png)
 26.	Click on **OK** to confirm the settings and start the transfer.
-<br>![](/exercises/ex7/images/07_0020.png)
+<br>![](/exercises/ex7/images/07_0019.png)
 27.	In the table **Financial Plan Overview** you can see the result of the transfer.
-<br>![](/exercises/ex7/images/07_0021.png)
+<br>![](/exercises/ex7/images/07_0020.png)
 
 
 ## Summary
