@@ -23,7 +23,7 @@ In case you using this material outside of the Live session, you can request a t
 
 ## Exercises
 
-You can directly get started with the exercises following the links below. Alternatively, you can also download the exercise material [SAP TechEd 2021 ANA360](materials/ANA360.pdf)
+You can directly get started with the exercises following the links below. Alternatively, you can also download the exercise material [SAP TechEd 2021 - ANA360](materials/ANA360.pdf).
 
 - [Exercise 1 - Import from the Analytics Content Network](exercises/ex1/)
 - [Exercise 2 - Configure Planning Parameters](exercises/ex2/)
