@@ -29,7 +29,7 @@ Follow the step-by-step guide to complete the exercise.
 7. In the Application Configuration, click on **Guide Me!** This will start a wizard which helps you setting up the planning parameters.
 <br>![](/exercises/ex2/images/02_0006.png)
 
-8. The central parameters which you can maintain are always related to a specific **version** and a **planning level**. The Planning Level defines the organizational granularity for which the planning parameters are stored.
+8. The central parameters which you can maintain are always related to a specific **version** and a **planning level**. The Planning Level defines the organizational granularity for which the planning parameters are stored and at which level you will plan.
 9. In the drop-down box Version select **Aggregated_Plan** and for Planning Level select **Company Code / Business Unit**.
 <br>![](/exercises/ex2/images/02_0007.png)
 
