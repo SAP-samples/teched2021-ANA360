@@ -36,7 +36,7 @@ Follow the step-by-step guide to complete the exercise.
 10.	In the second step, **Data Input**, of the wizard, you can define how the parameter values are initialized:
     - **Manual**: Parameter values are manually initialized
     - **Copy Data From**: Parameter values are copied from an existing version
-11.	Click **Done**.
+11.	Click **Done**. The central assumptions data will be copied into your chosen plan level/version combination.
 <br>![](/exercises/ex2/images/02_0008.png)
 
 12. The input table for the parameters will be adjusted according to the settings.
@@ -51,11 +51,20 @@ Follow the step-by-step guide to complete the exercise.
 
 16.	The table is filtered according to the filter settings. You can expand the hierarchy node for the Date dimension and drill down to the quarters or periods.
 <br>![](/exercises/ex2/images/02_0012.png)
-17.	Once you are done with your changes, you can click the **Confirm** button to publish your changes.
+
+17. Click on **External Workforce** to switch the view and maintain cost drivers for external workforce.
+<br>![](/exercises/ex2/images/02_0012a.png)
+18. The layout of the table is adjusted to include the dimension **Location** and only one measure for the total cost rate for external workers.
+19.	Change some values in the table.
+<br>![](/exercises/ex2/images/02_0012b.png)
+
+
+20. Once you are done with your changes, you can click the **Confirm** button to publish your changes.
 <br>![](/exercises/ex2/images/02_0013.png)
-18.	You will see a confirmation dialog which summarizes the main settings. Click **OK** to publish the version.
+21. You will see a confirmation dialog which summarizes the main settings. Toggle-on **Initialise Plan Data After Publish** to populate the plan version with initial data.
+22. Click **OK** to publish the version.
 <br>![](/exercises/ex2/images/02_0014.png)
-19.	Click on the **Home** icon at the top left of the screen to return to the overview page.
+23. Click on the **Home** icon at the top left of the screen to return to the overview page.
 <br>![](/exercises/ex2/images/02_0015.png)
 
 
@@ -66,4 +75,4 @@ Follow the step-by-step guide to complete the exercise.
 
 You've now learned how you can define central planning parameters.
 
-Continue to - [Exercise 3 - Aggregated External HC Plan ](../ex3/README.md)
+Continue to [Exercise 3 - Aggregated External HC Plan ](../ex3/README.md)
