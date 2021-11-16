@@ -1,0 +1,13 @@
+//Initialize TRAINING Costs for Internal Workforce for PL2
+DATA([d/Measures] = "AMOUNT", [d/SAP_HR_COSTTYPE] ="TRAINING" ) =
+RESULTLOOKUP([d/Measures] = "Rate_Absolute",
+			 [d/SAP_HR_COSTTYPE]  = "TRAINING",
+//			 [d/SAP_ALL_COMPANY_CODE] = "#",
+//			 [d/SAP_HR_BUSINESSUNIT] = "#",
+			 [d/SAP_HR_DIVISION] = "#",
+			 [d/t.S:SAP_ALL_COSTCENTER]="#",
+			 [d/SAP_HR_USER_LOCATION]="#",
+			 [d/Audit] = "MANUAL",
+			 [d/Plan_Level]="PL0"
+			) *
+RESULTLOOKUP([d/Measures]="HC_EoP", [d/SAP_HR_COSTTYPE]="#")
