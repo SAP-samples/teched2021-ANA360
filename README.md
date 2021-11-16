@@ -34,6 +34,8 @@ You can directly get started with the exercises following the links below. Alter
 - [Exercise 7 - Integration to Financial Planning](exercises/ex7/)
 - [Exercise 8 - Add additional cost type](exercises/ex8/)
 
+## Additional downloads
+
 ## Additional learning
 In case you want to learn more about planning with SAP Analytics Cloud there are several ways how you can continue from here:
 - SAP Community pages for [Enterprise Planning](https://community.sap.com/topics/cloud-analytics/planning)
