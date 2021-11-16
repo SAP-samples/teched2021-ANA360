@@ -35,6 +35,8 @@ You can directly get started with the exercises following the links below. Alter
 - [Exercise 8 - Add additional cost type](exercises/ex8/)
 
 ## Additional downloads
+- [Presentation slides](materials/ANA360_slides.pdf)
+- [Code snippet for cost calculation](materials/code_snippet.txt)
 
 ## Additional learning
 In case you want to learn more about planning with SAP Analytics Cloud there are several ways how you can continue from here:
