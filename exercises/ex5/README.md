@@ -19,31 +19,33 @@ Follow the step-by-step instructions to complete the exercise.
 7. Click on a cell in the table.
 <br>![](/exercises/ex5/images/05_0005.png)
 8. If you keep the mouse pointer over the cell you will see additional information for that employee.
+9. You will also see the selected employee in a text field above the table.
 <br>![](/exercises/ex5/images/05_0006.png)
-9. From the drop-down box, you can select an activity which you want to apply to the selected employee.
-10. Click on **Adjust Employment Level**.
+10. From the drop-down box, you can select an activity which you want to apply to the selected employee.
+11. Click on **Adjust Employment Level**.
 <br>![](/exercises/ex5/images/05_0007.png)
-11. In the popup window you can adjust the employment level (**FTE**) and select a time range for which this change is applied (**Valid From / Valid To**).
-12. Click on **Done** to apply the change.
+12. In the popup window you can adjust the employment level (**FTE**) and select a time range for which this change is applied (**Valid From / Valid To**).
+13. Click on **Done** to apply the change.
 <br>![](/exercises/ex5/images/05_0008.png)
-13. You can see the impact of the change in the planning table.
+14. You can see the impact of the change in the planning table.
+15.	The costs are automatically re-calculated based on those changes.
 <br>![](/exercises/ex5/images/05_0009.png)
-14. Expand the section **Overview FTE Costs** to analyze the costs for each individual employee.
-15. The costs are calculated from the FTE values and the central parameters which can be maintained in the Configuration Application.
+16. Expand the section **Overview FTE Costs** to analyze the costs for each individual employee.
+17. The costs are calculated from the FTE values and the central parameters which can be maintained in the Configuration Application.
 <br>![](/exercises/ex5/images/05_0010.png)
-16. Besides changes for existing employees, you can also plan new positions.
-17. Click on **New Hires**.
+18. Besides changes for existing employees, you can also plan new positions.
+19. Click on **New Hires**.
 <br>![](/exercises/ex5/images/05_0011.png)
-18. In the New Hires perspective, you will see open positions, i.e., planned positions which are not yet filled with an employee.
-19. To plan a new position, click on **Create Position**.
+20. In the New Hires perspective, you will see open positions, i.e., planned positions which are not yet filled with an employee.
+21. To plan a new position, click on **Create Position**.
 <br>![](/exercises/ex5/images/05_0012.png)
-20. In the pop-up window, you can provide attributes for the new position.
+22. In the pop-up window, you can provide attributes for the new position.
 <br>![](/exercises/ex5/images/05_0013.png)
-21. Fill in some reasonable values and click on **Done** to create the position.
+23. Fill in some reasonable values and click on **Done** to create the position.
 <br>![](/exercises/ex5/images/05_0014.png)
-22. The new position is created and the costs related to this position are calculated and shown in the cost overview at the bottom of the page.
+24. The new position is created and the costs related to this position are calculated and shown in the cost overview at the bottom of the page.
 <br>![](/exercises/ex5/images/05_0015.png)
-23. Navigate back to the overview page.
+25. Navigate back to the overview page.
 <br>![](/exercises/ex5/images/05_0016.png)
 
 
@@ -51,4 +53,4 @@ Follow the step-by-step instructions to complete the exercise.
 
 You've now seen how you can plan your workforce on a very detailed level.
 
-Continue to - [Exercise 6 - Reporting](../ex6/README.md)
+Continue to [Exercise 6 - Reporting](../ex6/README.md)
