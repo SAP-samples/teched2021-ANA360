@@ -26,7 +26,8 @@ Follow this step-by-step guid to complete the exercise.
 12. Click on the **Version** to open the version selector. 
 <br>![](/exercises/ex3/images/03_0007.png)
 13. Select the versions you want to compare. Typically, you compare your current plan version against your target, e.g., budget, or strategic plan.
-14. Click on **Done**.
+14. Leave the selection and click on **Done**.
+**Note:** Selecting a second version only makes sense if the two versions are comparable, e.g., having a second version representing a strategic plan.
 <br>![](/exercises/ex3/images/03_0008.png)
 15. Click on **Hide Header** to hide the header section and save some screen space for the plan input table.
 <br>![](/exercises/ex3/images/03_0009.png)
