@@ -12,7 +12,7 @@ Follow the step-by-step instructions to complete the exercise.
 <br>![](/exercises/ex6/images/06_0001.png)
 3. The page **Progress Overview** shows actual headcount numbers and the deviation to the plan.
 <br>![](/exercises/ex6/images/06_0002.png)
-4. The page **Gender Analysis** shows KPI’s and breakdowns related to male and female employees.
+4. The page **Gender Analysis** shows KPI’s and breakdowns related to the gender distribution of the workforce.
 <br>![](/exercises/ex6/images/06_0003.png)
 5. The page **External Workforce** shows headcount information related to external workforce and variances between actual and plan data.
 <br>![](/exercises/ex6/images/06_0004.png)
@@ -23,4 +23,4 @@ Follow the step-by-step instructions to complete the exercise.
 
 You have an overview of the existing pre-defined dashboards for SAP HXM Workforce Planning.
 
-Continue to - [Exercise 7 - Integration to Financial Planning](../ex7/README.md)
+Continue to [Exercise 7 - Integration to Financial Planning](../ex7/README.md)
