@@ -48,6 +48,7 @@ Follow this step-by-step guid to complete the exercise.
 16. Next, you need to adjust the calculation logic for cost calculation to include the cost for training. Click on **Data Actions** in the main menu.
 <br>![](/exercises/ex8/images/08_0013.png)
 17.	Click on the entry for the data action **Calculation of Costs for Plan Level PL2 in Aggregated Planning**.
+**Note**: PL2 refers to the Planning level Company Code / Business Unit.
 <br>![](/exercises/ex8/images/08_0014.png)
 18.	The design time for defining data actions is opened. This data action has one step of type Advanced Formula. The script of this steps recalculates the total workforce cost based on planned head count and central cost drivers.
 <br>![](/exercises/ex8/images/08_0015.png)
@@ -102,28 +103,6 @@ Follow this step-by-step guid to complete the exercise.
 <br>![](/exercises/ex8/images/08_0035.png)
 48.	In the Cost Overview table, drill down in the dimension Plan Cost Type and check that you can see a new line **Training**.
 <br>![](/exercises/ex8/images/08_0036.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Summary
