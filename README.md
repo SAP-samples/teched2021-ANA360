@@ -45,7 +45,7 @@ In case you want to learn more about planning with SAP Analytics Cloud there are
 - openSAP course [Planning with SAP Analytics Cloud - Advanced Topics](https://open.sap.com/courses/sac4/)
 
 Signavio process library:
-- [xP&A Planning Hub](https://editor.signavio.com/p/hub?t=133874471fd84a7ebf723a6f8047ef71)
+- [xP&A Planning Hub](https://editor.signavio.com/p/hub?t=133874471fd84a7ebf723a6f8047ef71) (you need to have an S-User to log-on)
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
