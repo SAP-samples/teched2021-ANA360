@@ -38,11 +38,14 @@ You can directly get started with the exercises following the links below. Alter
 - [Presentation slides](materials/ANA360_slides.pdf)
 - [Code snippet for cost calculation](materials/code_snippet.txt)
 
-## Additional learning
+## Additional links
 In case you want to learn more about planning with SAP Analytics Cloud there are several ways how you can continue from here:
 - SAP Community pages for [Enterprise Planning](https://community.sap.com/topics/cloud-analytics/planning)
 - openSAP course [Planning with SAP Analytics Cloud](https://open.sap.com/courses/sac3/)
 - openSAP course [Planning with SAP Analytics Cloud - Advanced Topics](https://open.sap.com/courses/sac4/)
+
+Signavio process library:
+- [xP&A Planning Hub](https://editor.signavio.com/p/hub?t=133874471fd84a7ebf723a6f8047ef71)
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
