@@ -40,7 +40,7 @@ You can directly get started with the exercises following the links below. Alter
 
 ## Additional links
 In case you want to learn more about planning with SAP Analytics Cloud there are several ways how you can continue from here:
-- SAP Community pages for [Enterprise Planning](https://community.sap.com/topics/cloud-analytics/planning)
+- SAP Community pages for [Enterprise Planning](https://community.sap.com/topics/cloud-analytics/planning) --> Please ask your SAP SAC specific questions here, so other interessted people can also follow the coresponding thread
 - openSAP course [Planning with SAP Analytics Cloud](https://open.sap.com/courses/sac3/)
 - openSAP course [Planning with SAP Analytics Cloud - Advanced Topics](https://open.sap.com/courses/sac4/)
 
