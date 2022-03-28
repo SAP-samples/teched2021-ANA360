@@ -48,7 +48,7 @@ Follow the step-by-step instructions to complete the exercise.
 <br>![](/exercises/ex7/images/07_0013.png)
 25.	In the settings dialog, you can specify the source version in the WFP model as well as the planning level. In addition, you can define the target version in the financial planning model.
 26.	Click on **OK** to confirm the settings.
-<br>![](/exercises/ex7/images/"Bildschirmfoto 2022-03-04 um 14.32.11.png")
+<br>![](/exercises/ex7/images/07_00142.png)
 27.	Click on **G/L Mapping** to derive the G/L accounts.
 <br>![](/exercises/ex7/images/07_0015.png)
 28.	Click on **OK** to confirm the mapping parameters and start the derivation.
