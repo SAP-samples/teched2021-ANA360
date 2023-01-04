@@ -1,3 +1,9 @@
+
+This repository is outdated, please check out the latest informations here [site](https://community.sap.com/topics/cloud-analytics/planning/content).
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA360)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA360)
 
 # ANA360 - Unbox and Implement Workforce Planning
