@@ -1,4 +1,10 @@
+## Deprecation Notice
 
+This public repository is read-only and no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
 This repository is outdated, please check out the latest informations here [site](https://community.sap.com/topics/cloud-analytics/planning/content).
 
 
